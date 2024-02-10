@@ -1,5 +1,8 @@
 import './App.css'
 //생활코딩 5강
+/* 이미 만들어진 repl에서 깃 연동하기
+https://velog.io/@jeong011010/%EA%B5%B0%EB%8C%80%EC%97%90%EC%84%9C-REACT-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C
+*/
 
 function Header(props){
   return <header>
